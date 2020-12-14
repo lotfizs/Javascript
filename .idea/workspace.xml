@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h03" />
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h03">
+      <change afterPath="$PROJECT_DIR$/h04/Op4.2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/img/leeuw8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/h04/Op4.2/img/leeuw8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/Op3.1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/Op3.1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h04/Op4.2/img" />
       <recent name="$PROJECT_DIR$/h03/Op3.1/img" />
       <recent name="$PROJECT_DIR$/h02/Op2.1/img" />
     </key>
@@ -69,6 +82,7 @@
       <updated>1606907386139</updated>
       <workItem from="1606907387175" duration="5847000" />
       <workItem from="1607078308060" duration="3685000" />
+      <workItem from="1607943046305" duration="639000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -126,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607082174738</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="h03">
+      <created>1607943181999</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607943181999</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +163,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="h01" />
@@ -150,11 +172,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="h03" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="102" y="256" key="Vcs.Push.Dialog.v2" timestamp="1607082181333">
-      <screen x="0" y="23" width="1792" height="1022" />
+    <state x="102" y="256" key="Vcs.Push.Dialog.v2" timestamp="1607943187800">
+      <screen x="0" y="25" width="1792" height="1015" />
     </state>
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1607082181333" />
     <state x="102" y="258" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606997566438" />
+    <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1607943187800" />
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606907649430">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
