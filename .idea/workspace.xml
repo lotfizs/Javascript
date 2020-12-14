@@ -19,19 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h02">
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/img/leeuw9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h03/Op3.1/java.js" afterDir="false" />
-    </list>
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606907386139</updated>
       <workItem from="1606907387175" duration="5847000" />
-      <workItem from="1607078308060" duration="3198000" />
+      <workItem from="1607078308060" duration="3685000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -131,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606997557482</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="h03">
+      <created>1607082174738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607082174738</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,12 +146,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="h01" />
     <MESSAGE value="h02" />
-    <option name="LAST_COMMIT_MESSAGE" value="h02" />
+    <MESSAGE value="h03" />
+    <option name="LAST_COMMIT_MESSAGE" value="h03" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="102" y="258" key="Vcs.Push.Dialog.v2" timestamp="1606997566438">
-      <screen x="0" y="23" width="1792" height="1031" />
+    <state x="102" y="256" key="Vcs.Push.Dialog.v2" timestamp="1607082181333">
+      <screen x="0" y="23" width="1792" height="1022" />
     </state>
+    <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1607082181333" />
     <state x="102" y="258" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606997566438" />
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606907649430">
       <screen x="0" y="23" width="1792" height="1031" />
