@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h04">
-      <change afterPath="$PROJECT_DIR$/h04/Op4.3/img/monden/crookMond1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Op4.3/img/monden/crookMond2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Op4.3/img/monden/crookMond3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Op4.3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h04/Op4.3/javaScript4.3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,9 +55,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/h04/Op4.3/img/monden" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/ogen" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/neuzen" />
+      <recent name="$PROJECT_DIR$/h04/Op4.3/img/monden" />
       <recent name="$PROJECT_DIR$/h04/Op4.2/img" />
       <recent name="$PROJECT_DIR$/h03/Op3.1/img" />
     </key>
@@ -79,7 +72,7 @@
       <updated>1606907386139</updated>
       <workItem from="1606907387175" duration="5847000" />
       <workItem from="1607078308060" duration="3685000" />
-      <workItem from="1607943046305" duration="3163000" />
+      <workItem from="1607943046305" duration="3463000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -151,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607943975048</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="h04">
+      <created>1608029688392</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608029688392</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
