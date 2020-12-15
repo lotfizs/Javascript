@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose your Tiger</title>
+    <style>
+        body{
+            font-family: sans-serif,serif;
+            text-align: center;
+        }
+
+        div.picture-holder {
+            box-sizing: border-box;
+            height: 450px;
+            width: 300px;
+            float: left;
+            background-color: red;
+            border: solid 1px black;
+        }
+
+        div.favoriet {
+            width: 300px;
+            height: 175px;
+            background-color: white;
+            background-image: none;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        #pics {
+            width: 900px;
+            height: 1350px;
+            border: solid 1px black;
+            font-size: 0px;
+            margin: auto;
+        }
+        img{
+            height: 275px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<h1>TigerChooser</h1>
+<h3>Choose your favorite Tiger</h3>
+<div id="pics">
+
+</div>
+<script>
+    pics = document.getElementById("pics");
+    createPicsHolders();
+    createTigerImages();
+
+    function createPicsHolders() {
+        for (var i = 0; i < 9; i++) {
+            pictureholder = document.createElement("div");
+            pictureholder.className = "picture-holder";
+            pics.appendChild(pictureholder);
+            pictureholder.id = "picture-holder" + i;
+        }
+    }
+
+    function createTigerImages() {
+        pictureHolder = document.getElementsByClassName("picture-holder");
+        for (var i = 0; i < pictureHolder.length; i++) {
+            favoriet = document.createElement("div");
+            favoriet.className = "favoriet";
+            favoriet.id = "favoriet_" + i;
+
+            tigerPlaatje = document.createElement("img");
+            tigerPlaatje.src = "img/tijger" + (i+1) +".jpg";
+            tigerPlaatje.id = i;
+            tigerPlaatje.addEventListener("click", function (){
+                maakFavoriet(this.id)
+            });
+            pictureHolder[i].appendChild(favoriet);
+            pictureHolder[i].appendChild(tigerPlaatje);
+        }
+    }
+
+    function maakFavoriet(id){
+        console.log("Maak mij Favoriet!" + id)
+        notsofavoriet = document.getElementsByClassName("fqvoriet");
+        for (var i = 0; i < notsofavoriet.length; i++){
+            notsofavoriet[i].style.backgroundImage ="none";
+        }
+
+        favoriet = document.getElementById("favoriet_" + id)
+        favoriet.style.backgroundImage = "url('img/heart.png')";
+    }
+
+</script>
+
+</body>
+</html>

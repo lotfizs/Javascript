@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h04" />
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h04">
+      <change afterPath="$PROJECT_DIR$/h05/img/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/img/tijger7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h05/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,11 +65,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/h05/img" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/ogen" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/neuzen" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/monden" />
       <recent name="$PROJECT_DIR$/h04/Op4.2/img" />
-      <recent name="$PROJECT_DIR$/h03/Op3.1/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +82,7 @@
       <updated>1606907386139</updated>
       <workItem from="1606907387175" duration="5847000" />
       <workItem from="1607078308060" duration="3685000" />
-      <workItem from="1607943046305" duration="3463000" />
+      <workItem from="1607943046305" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -151,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608029688392</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="h04">
+      <created>1608029702913</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608029702913</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,12 +194,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="h04" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="102" y="256" key="Vcs.Push.Dialog.v2" timestamp="1607943986795">
-      <screen x="0" y="25" width="1792" height="1015" />
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2" timestamp="1608029708638">
+      <screen x="0" y="25" width="1792" height="1019" />
     </state>
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1607082181333" />
     <state x="102" y="258" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606997566438" />
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1607943986795" />
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1608029708638" />
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606907649430">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
