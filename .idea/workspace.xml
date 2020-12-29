@@ -19,16 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h04">
-      <change afterPath="$PROJECT_DIR$/h05/img/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/tijger7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/index.html" afterDir="false" />
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h05">
+      <change afterPath="$PROJECT_DIR$/memory game/img/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/sike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/img/tijger9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory game/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +47,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -61,15 +68,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/memory game/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/memory game/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/h05/img" />
+      <recent name="$PROJECT_DIR$/memory game/img" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/ogen" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/neuzen" />
       <recent name="$PROJECT_DIR$/h04/Op4.3/img/monden" />
-      <recent name="$PROJECT_DIR$/h04/Op4.2/img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,7 +94,8 @@
       <updated>1606907386139</updated>
       <workItem from="1606907387175" duration="5847000" />
       <workItem from="1607078308060" duration="3685000" />
-      <workItem from="1607943046305" duration="3773000" />
+      <workItem from="1607943046305" duration="4334000" />
+      <workItem from="1609253156380" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -168,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608029702913</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="h05">
+      <created>1608030074824</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608030074824</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,19 +211,24 @@
     <MESSAGE value="h02" />
     <MESSAGE value="h03" />
     <MESSAGE value="h04" />
-    <option name="LAST_COMMIT_MESSAGE" value="h04" />
+    <MESSAGE value="h05" />
+    <option name="LAST_COMMIT_MESSAGE" value="h05" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="102" y="257" key="Vcs.Push.Dialog.v2" timestamp="1608029708638">
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2" timestamp="1608030081268">
       <screen x="0" y="25" width="1792" height="1019" />
     </state>
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1607082181333" />
     <state x="102" y="258" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606997566438" />
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1607943986795" />
-    <state x="102" y="257" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1608029708638" />
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1608030081268" />
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606907649430">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1606907649430" />
+    <state x="170" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1609254264395">
+      <screen x="0" y="25" width="1792" height="1020" />
+    </state>
+    <state x="170" y="250" width="670" height="676" key="search.everywhere.popup/0.25.1792.1020@0.25.1792.1020" timestamp="1609254264395" />
   </component>
 </project>

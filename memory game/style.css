@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    background: crimson;
+}
+
+img {
+    width: 100px;
+}
+
+.memory-game {
+    width: 640px;
+    height: 640px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    perspective: 1000px;
+}
+
+.memory-card {
+    width: calc(20% - 10px);
+    height: calc(25% - 10px);
+    margin: 5px;
+    position: relative;
+    transform: scale(1);
+    transform-style: preserve-3d;
+    transition: transform .5s;
+}
+
+.memory-card:active {
+    transform: scale(.97);
+    transition: transform .2s;
+}
+
+.memory-card.flip {
+    transform: rotateY(180deg);
+}
+
+.front-face, .back-face {
+    width: 100%;
+    height: 100%;
+    padding: 2px;
+    position: absolute;
+    border-radius: 5px;
+    background: crimson;
+    backface-visibility: hidden;
+}
+
+.front-face {
+    transform: rotateY(180deg);
+}
+
+div#players {
+    display: flex;
+    position: absolute;
+    font-weight: bold;
+    color: white;
+    width: 90%;
+    top: 100px;
+    left: 80px;
+    justify-content: space-between;
+}
+
+div.punten {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    align-items: center;
+    font-size: 1.5em;
+    color: white;
+    background: #092c3e;
+    padding: 20px;
+    border: solid 1px white;
+}
+
+.Scoreboard {
+    display: flex;
+    position: absolute;
+    font-weight: bold;
+    width: 134px;
+    color: white;
+    top: 10px;
+    left: 80px;
+    font-size:20px;
+    justify-content: space-between;
+    background: #092c3e;
+    padding: 20px;
+    border: solid 1px white;
+}
+
+.Scoreboard2 {
+    display: flex;
+    position: absolute;
+    font-weight: bold;
+    width: 134px;
+    top: 10px;
+    left: 86.5%;
+    font-size:20px;
+    color: white;
+    justify-content: space-between;
+    background: #092c3e;
+    padding: 20px;
+    border: solid 1px white;
+}
+
+.winner {
+    position: absolute;
+    left: 44%;
+    border: 1px white solid;
+    background: #092c3e;
+    color: white;
+    font-size: 2em;
+    padding: 20px;
+    visibility: hidden;
+}
+
+.debeurt {
+    position: absolute;
+    font-weight: bold;
+    left: 43%;
+    border: 1px white solid;
+    background: #092c3e;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+
+input[type="checkbox"] {
+    -webkit-appearance: none;
+    visibility: hidden;
+    display: none;
+}
+
+.check {
+    position: relative;
+    display: block;
+    width: 40px;
+    height: 20px;
+    background: #121212;
+    cursor: pointer;
+    border-radius: 20px;
+    overflow: hidden;
+    transition: ease-in 0.5s;
+}
+
+input[type="checkbox"]:checked ~ .check {
+    background: crimson;
+    box-shadow: 0 0 0 50000px #121212;
+}
+
+.Copyright a{
+    text-decoration: none;
+    font-size: 20px;
+    position: fixed;
+    color: gray;
+    display: block;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.Copyright a:hover {
+    color: lightgray;
+    transition: 0.1s ease-in-out;
+}
+
+button {
+    left: 47%;
+    top: 46%;
+    width: 100px;
+    height: 50px;
+    border-radius: 12px;
+    position: absolute;
+    transition: 0.3s;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 12px 16px 0 greenyellow, 0 17px 50px 0 red;
+}

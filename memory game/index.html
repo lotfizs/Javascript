@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<label>
+    <input type="checkbox">
+    <span class="check"></span>
+</label>
+
+<section id="onscreen">
+    <div class="Scoreboard">Scoreboard</div>
+    <div class="Scoreboard2">Scoreboard</div>
+
+    <div id="players">
+        <div class="punten"><div id="player1name">Player1</div>: <div id="player1points">0</div></div>
+        <div class="punten"> <div id="player2name">Player2</div>: <div id="player2points">0</div></div>
+    </div>
+    <div class="debeurt" id="debeurt">De beurt.....</div>
+</section>
+<section class="memory-game" id="cardvisibility">
+    <div class="memory-card" data-framework="Tijger1">
+        <img class="img front-face" src="img/tijger1.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger1">
+        <img class="img front-face" src="img/tijger1.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger2">
+        <img class="img front-face" src="img/tijger2.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger2">
+        <img class="img front-face" src="img/tijger2.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger3">
+        <img class="img front-face" src="img/tijger3.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger3">
+        <img class="img front-face" src="img/tijger3.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger4">
+        <img class="img front-face" src="img/tijger4.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger4">
+        <img class="img front-face" src="img/tijger4.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger5">
+        <img class="img front-face" src="img/tijger5.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger5">
+        <img class="img front-face" src="img/tijger5.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger6">
+        <img class="img front-face" src="img/tijger6.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger6">
+        <img class="img front-face" src="img/tijger6.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger7">
+        <img class="img front-face" src="img/tijger7.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger7">
+        <img class="img front-face" src="img/tijger7.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger8">
+        <img class="img front-face" src="img/tijger8.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger8">
+        <img class="img front-face" src="img/tijger8.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger9">
+        <img class="img front-face" src="img/tijger9.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="Tijger9">
+        <img class="img front-face" src="img/tijger9.jpg"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="heart">
+        <img class="img front-face" src="img/heart.png"/>
+        <img class="img back-face" src="img/sike.png"/>
+    </div>
+    <div class="memory-card" data-framework="heart">
+        <img class="img front-face" src="img/heart.png">
+        <img class="img back-face" src="img/sike.png">
+    </div>
+</section>
+<div class="winner" id="thewinner"></div>
+
+<button onclick="startgame()" id="startgamebutton">Press to start Game</button>
+<button onclick="window.location.reload();" id="restartgamebutton">Restart Game</button>
+
+<div class="Copyright">
+    <a href="https://lotfizs.github.io/portofolio/" target="_blank">Game is LotfiZS</a>
+</div>
+<script src="java.js"></script>
+</body>
+</html>
