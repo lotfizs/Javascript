@@ -19,21 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h05">
-      <change afterPath="$PROJECT_DIR$/memory game/img/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/sike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/img/tijger9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/java.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memory game/style.css" afterDir="false" />
+    <list default="true" id="9813af22-30de-4193-849e-115d59a121b7" name="Default Changelist" comment="h06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +81,9 @@
       <workItem from="1606907387175" duration="5847000" />
       <workItem from="1607078308060" duration="3685000" />
       <workItem from="1607943046305" duration="4334000" />
-      <workItem from="1609253156380" duration="1585000" />
+      <workItem from="1609253156380" duration="2490000" />
+      <workItem from="1609765091730" duration="4000" />
+      <workItem from="1609854260729" duration="502000" />
     </task>
     <task id="LOCAL-00001" summary="h01">
       <created>1606907635362</created>
@@ -188,7 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608030074824</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="h06">
+      <created>1609255169748</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1609255169748</updated>
+    </task>
+    <task id="LOCAL-00015" summary="h06">
+      <created>1609255220822</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1609255220822</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,16 +214,18 @@
     <MESSAGE value="h03" />
     <MESSAGE value="h04" />
     <MESSAGE value="h05" />
-    <option name="LAST_COMMIT_MESSAGE" value="h05" />
+    <MESSAGE value="h06" />
+    <option name="LAST_COMMIT_MESSAGE" value="h06" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="102" y="257" key="Vcs.Push.Dialog.v2" timestamp="1608030081268">
-      <screen x="0" y="25" width="1792" height="1019" />
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2" timestamp="1609255228072">
+      <screen x="0" y="25" width="1792" height="1020" />
     </state>
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.23.1792.1022@0.23.1792.1022" timestamp="1607082181333" />
     <state x="102" y="258" key="Vcs.Push.Dialog.v2/0.23.1792.1031@0.23.1792.1031" timestamp="1606997566438" />
     <state x="102" y="256" key="Vcs.Push.Dialog.v2/0.25.1792.1015@0.25.1792.1015" timestamp="1607943986795" />
     <state x="102" y="257" key="Vcs.Push.Dialog.v2/0.25.1792.1019@0.25.1792.1019" timestamp="1608030081268" />
+    <state x="102" y="257" key="Vcs.Push.Dialog.v2/0.25.1792.1020@0.25.1792.1020" timestamp="1609255228072" />
     <state x="324" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606907649430">
       <screen x="0" y="23" width="1792" height="1031" />
     </state>
